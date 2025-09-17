@@ -1,0 +1,15 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+# Ignore Python path files
+*.pth
+
+
+# Python ignores
+*.pyc
+*.pth
+__pycache__/
+
+# Virtual environments
+
+.venv/
